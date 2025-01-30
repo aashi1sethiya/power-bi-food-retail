@@ -3,7 +3,7 @@
 # 🛒 Retail Food KPI Strategy Dashboard  
 
 ## 📌 Project Overview  
-As part of my internship at **Top worlds grocery retailer**, I developed **Power BI dashboards** to analyze retail food performance and the impact of health initiatives on business KPIs.  
+As part of my internship at **a top food grocery retailer**, I developed **Power BI dashboards** to analyze retail food performance and the impact of health initiatives on business KPIs.  
 
 ### 🎯 Objective  
 The goal was to create interactive dashboards that help leadership understand:  
